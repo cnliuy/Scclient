@@ -1,0 +1,12 @@
+# eureka 服务消费者 客户端, 第三个启动
+server:
+  port: 8003
+  
+spring:
+  application:
+    name: spring-cloud-consumer
+    
+eureka:
+  client:
+    service-url:
+      defaultZone: http://127.0.0.1:8001/eureka/
