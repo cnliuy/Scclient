@@ -17,6 +17,8 @@
   
   
   
+   
+     
 使用的服务注册中心是  
 &nbsp;&nbsp;eureka:  
 &nbsp;&nbsp;&nbsp;&nbsp;client:  
@@ -26,6 +28,8 @@
 微服务都注册到这个地址，供消费者调用，该地址浏览器访问不到什么  
 服务注册中心----可视化状态地址是 http://127.0.0.1:8001/  
   
+  
+      
             
         
 https://github.com/cnliuy/Scclient.git  
