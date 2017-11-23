@@ -19,6 +19,11 @@
   
 https://github.com/cnliuy/Scclient.git  
 
-参考：
+参考：  
+  
+    
+----  
+en笔记 搜索：  
+关键词  eureka 服务 测试 demo  
 
 
